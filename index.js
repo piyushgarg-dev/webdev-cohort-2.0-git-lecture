@@ -23,4 +23,7 @@ sub(10, 3)
 multiply(2, 3)
 multiply(20, 35)
 multiply(20, 11)
+multiply(20, 110)  
 multiply(20, 110)
+add(20, 110)
+
