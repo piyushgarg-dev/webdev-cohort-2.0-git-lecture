@@ -15,6 +15,8 @@ function multiply(a, b) {
 add(2, 5)
 add(10, 23)
 add(40, 42)
+add(40, 43)
+
 
 
 sub(10, 3)
